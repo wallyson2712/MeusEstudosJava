@@ -2,7 +2,7 @@ package POO;
 
 public class Conta {
 
-	private double salario;
+	private static double salario;
 	private double limite;
 	private int numero;
 
