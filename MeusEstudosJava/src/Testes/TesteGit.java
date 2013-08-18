@@ -1,6 +1,6 @@
 package Testes;
 
-public class Ver {
+public class TesteGit {
 
 	/**
 	 * @param args

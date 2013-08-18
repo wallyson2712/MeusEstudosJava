@@ -28,7 +28,6 @@ public class Uso {
 		System.out.println(tempo + " " + " " + tempo2 + " " + tempo3);
 
 		// algo bem simple
-
 		BufferedReader rd = new BufferedReader(new InputStreamReader(System.in));
 		String linha = rd.readLine();
 
